@@ -1,4 +1,4 @@
-# Greetings App
+# Greetings App - Cloud
 
 A simple Neutralino cloud app that displays a greeting message with the username of a user logged in the system. <br/>
 
